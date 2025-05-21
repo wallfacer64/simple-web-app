@@ -1,5 +1,5 @@
 # Use the official Node.js image
-FROM node:18.19.1
+FROM node:24.0.2
 
 # Create and change to the app directory
 WORKDIR /workspace/simple-web-app/simple-web-app/app.js
